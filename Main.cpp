@@ -31,5 +31,5 @@ int main() {
 	}
 	std::cout << Line << std::endl;
 
-	return 0;
+	std::cin.get();
 }
